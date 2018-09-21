@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GLSL on Academic</title>
+    <link>/tags/glsl/</link>
+    <description>Recent content in GLSL on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/glsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GLshader</title>
+      <link>/project/glshader/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/glshader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex</title>
+      <link>/project/vortex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/vortex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

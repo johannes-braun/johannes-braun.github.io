@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenGL on Academic</title>
+    <link>/tags/opengl/</link>
+    <description>Recent content in OpenGL on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DINO</title>
+      <link>/project/dino/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/dino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLARE</title>
+      <link>/project/glare/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/glare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLshader</title>
+      <link>/project/glshader/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/glshader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphics Utilities</title>
+      <link>/project/vkgl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/vkgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KIRK</title>
+      <link>/project/kirk/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/kirk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Project: AR/VR</title>
+      <link>/project/arvr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/arvr/</guid>
+      <description> Idea Details </description>
+    </item>
+    
+    <item>
+      <title>Lecture Project: Animation and Simulation</title>
+      <link>/project/ansim/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/ansim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Project: Realtime Rendering</title>
+      <link>/project/ezr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/ezr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MyGL</title>
+      <link>/project/mygl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/mygl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

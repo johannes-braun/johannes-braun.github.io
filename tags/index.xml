@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Academic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ambient Occlusion</title>
+      <link>/tags/ambient-occlusion/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/ambient-occlusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>/tags/augmented-reality/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding Volume Hierarchy</title>
+      <link>/tags/bounding-volume-hierarchy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/bounding-volume-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>/tags/data-structures/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deferred Shading</title>
+      <link>/tags/deferred-shading/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/deferred-shading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Fields</title>
+      <link>/tags/distance-fields/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/distance-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLSL</title>
+      <link>/tags/glsl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/glsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Illumination</title>
+      <link>/tags/global-illumination/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/global-illumination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphics</title>
+      <link>/tags/graphics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi-Z</title>
+      <link>/tags/hi-z/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/hi-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line Space</title>
+      <link>/tags/line-space/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/line-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>/tags/opencv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>/tags/opengl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathtracing</title>
+      <link>/tags/pathtracing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/pathtracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raytracing</title>
+      <link>/tags/raytracing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/raytracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/tags/research/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSGI</title>
+      <link>/tags/ssgi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/ssgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>/tags/simulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spherical Harmonics</title>
+      <link>/tags/spherical-harmonics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/spherical-harmonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>/tags/virtual-reality/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulkan</title>
+      <link>/tags/vulkan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/vulkan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

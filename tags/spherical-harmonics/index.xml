@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spherical Harmonics on Academic</title>
+    <link>/tags/spherical-harmonics/</link>
+    <description>Recent content in Spherical Harmonics on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/spherical-harmonics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lecture Project: Realtime Rendering</title>
+      <link>/project/ezr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/ezr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
